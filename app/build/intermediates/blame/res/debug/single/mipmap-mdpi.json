@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/UnitTestingDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/admin/Desktop/twinkle/demos/UnitTestingDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/ZWUnitTestingDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/admin/Desktop/twinkle/demos/ZWUnitTestingDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/UnitTestingDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/admin/Desktop/twinkle/demos/UnitTestingDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/ZWUnitTestingDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/admin/Desktop/twinkle/demos/ZWUnitTestingDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

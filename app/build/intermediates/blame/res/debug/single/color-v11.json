@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/ZWUnitTestingDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/admin/.android/build-cache/413d7cb6d1169cb464169dbf3b63e1f95f3cd5ca/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/UnitTestingDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/admin/.android/build-cache/413d7cb6d1169cb464169dbf3b63e1f95f3cd5ca/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/UnitTestingDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/admin/.android/build-cache/413d7cb6d1169cb464169dbf3b63e1f95f3cd5ca/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/twinkle/demos/ZWUnitTestingDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/admin/.android/build-cache/413d7cb6d1169cb464169dbf3b63e1f95f3cd5ca/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
